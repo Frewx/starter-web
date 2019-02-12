@@ -2,3 +2,5 @@ This is a test file.
 
 
 Modified for automate merge.
+
+Modified in master.
