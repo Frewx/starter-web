@@ -18,3 +18,5 @@
 Modified for happy path merging.
 
 Modified with mybranch.
+
+Modifying for conflict.
