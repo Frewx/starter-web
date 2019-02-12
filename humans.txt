@@ -20,3 +20,5 @@ Modified for happy path merging.
 Modified with mybranch.
 
 Modifying for conflict.
+
+Modifying for crappy situation.
