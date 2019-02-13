@@ -22,3 +22,5 @@ Modified with mybranch.
 Modifying for conflict.
 
 Modifying for crappy situation.
+
+Adding important notes on git stash.
