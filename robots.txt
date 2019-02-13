@@ -3,3 +3,5 @@
 User-agent: *
 
 Adding some lines for git stash.
+
+Modified for tags.
